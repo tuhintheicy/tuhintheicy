@@ -7,7 +7,6 @@ My fields of interests are :-
 - Deep learning
 - Natural language processing
 - DSA
-- Andoid app development
 - Website development
 - some stuffs related to Electronics control , designs and Robotics .
 - get connected me with at Linkedin :- www.linkedin.com/in/tuhin-mallick-893742227
