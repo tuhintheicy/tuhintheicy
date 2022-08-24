@@ -9,6 +9,7 @@ My fields of interests are :-
 - DSA
 - Website development
 - some stuffs related to Electronics control , designs and Robotics .
+- some basic works on Industrial instrumentations.
 - get connected me with at Linkedin :- www.linkedin.com/in/tuhin-mallick-893742227
 - My personal Instagram ID - https://www.instagram.com/invites/contact/?i=1shnheekzgaq1&utm_content=dz9cz42
 - My art page on Instagram - https://www.instagram.com/invites/contact/?i=1ghtyp72tgsul&utm_content=cxpuevb
