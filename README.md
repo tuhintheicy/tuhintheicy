@@ -2,7 +2,6 @@
 
 My fields of interests are :-
 
-- Artificial Intelligence
 - Machine Learning
 - Deep learning
 - Natural language processing
