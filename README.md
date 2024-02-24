@@ -3,9 +3,6 @@
 My fields of interests are :-
 
 - Machine Learning
-- Deep learning
-- Natural language processing
-- DSA
 - Website development
 - some stuffs related to Electronics control , designs and Robotics .
 - electronics simulation softwares and autocads.
